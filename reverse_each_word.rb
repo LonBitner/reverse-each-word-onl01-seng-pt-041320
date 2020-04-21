@@ -1,7 +1,1 @@
-reverse_each_word = ["Hello there, and how are you?"]
-
-def reverse(reverse_each_word)
-  reverse_each_word.each do |reverse_each_word|
-    puts "Hello there, and how are you?".reverse
-  end
-end 
+puts "Hello there, and how are you?".reverse
